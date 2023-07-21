@@ -2,7 +2,7 @@
 
 ## Open Source Projects
 
-[Libur.run](https://github.com/maful/libur.run) - Empower Your HR with Next-Gen Open Source Self-Serve Platform
+[libur.run](https://github.com/maful/libur.run) - Empower Your HR with Next-Gen Open Source Self-Serve Platform
 
 [ruby-phosphor-icons](https://github.com/maful/ruby-phosphor-icons) - Phosphor Icons for Ruby and Rails
 
