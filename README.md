@@ -6,7 +6,7 @@
 
 [ruby-phosphor-icons](https://github.com/maful/ruby-phosphor-icons) - Phosphor Icons for Ruby and Rails
 
-[sailboat_components](https://github.com/maful/sailboat_components) - ViewComponents for the Sailboat UI
+[sailboat_components](https://github.com/maful/sailboat_components) - ViewComponents for the Sailboat UI (In Progress)
 
 [railstips.dev](https://github.com/maful/railstips.dev) - Railstips.dev is a collection of tips and tricks for the Ruby on Rails ecosystem curated from Twitter
 
