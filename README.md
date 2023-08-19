@@ -10,7 +10,7 @@
 
 [sailboat_components](https://github.com/maful/sailboat_components) - ViewComponents for the Sailboat UI (In Progress)
 
-[railstips.dev](https://github.com/maful/railstips.dev) - Railstips.dev is a collection of tips and tricks for the Ruby on Rails ecosystem curated from Twitter
+[railstips.dev](https://github.com/maful/railstips.dev) - Railstips.dev is a collection of tips and tricks for the Ruby on Rails ecosystem curated from X (Formerly Twitter)
 
 [versafleet-ruby](https://github.com/maful/versafleet-ruby) - Ruby bindings for the VersaFleet API
 
