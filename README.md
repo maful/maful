@@ -6,6 +6,8 @@
 
 [ruby-phosphor-icons](https://github.com/maful/ruby-phosphor-icons) - Phosphor Icons for Ruby and Rails
 
+[upperbracket](https://github.com/maful/upperbracket) - Convenient way to generate full-stack Rails (Vite, Tailwind CSS, Rodauth, Rubocop)
+
 [shada-it](https://github.com/maful/shada-it) - Complete Syntax Highlighting for Markdown It with Shiki
 
 [sailboat_components](https://github.com/maful/sailboat_components) - ViewComponents for the Sailboat UI (In Progress)
@@ -20,6 +22,6 @@
 
 [github-actions-mailgun](https://github.com/maful/github-actions-mailgun) - An easy way to send an email with Mailgun in Github Actions
 
-[eci-rails](https://github.com/maful/eci-rails) - New Rails Template Application for your next amazing project
+[eci-rails](https://github.com/maful/eci-rails) - New Rails Template Application for your next amazing project (Deprecated, use [upperbracket](https://github.com/maful/upperbracket) instead)
 
 [e-koperasi](https://github.com/maful/e-koperasi) - Voluntary Savings Cooperative App
