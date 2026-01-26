@@ -1,10 +1,15 @@
 <img width="804" alt="Screen Shot 2020-09-20 at 21 24 35" src="https://user-images.githubusercontent.com/6563823/93713711-d58a7880-fb87-11ea-989c-d493997860fc.png">
 
+> [!IMPORTANT]
+> [VEA](https://github.com/maful/vea) - A terminal-inspired HTTP client for developers who prefer keyboard-first workflows
+
 ## Open Source Projects
 
-[libur.run](https://github.com/maful/libur.run) - Empower Your HR with Next-Gen Open Source Self-Serve Platform
-
 [ruby-phosphor-icons](https://github.com/maful/ruby-phosphor-icons) - Phosphor Icons for Ruby and Rails
+
+[vea](https://github.com/maful/vea) - A terminal-inspired HTTP client for developers who prefer keyboard-first workflows
+
+[libur.run](https://github.com/maful/libur.run) - Empower Your HR with Next-Gen Open Source Self-Serve Platform
 
 [stimulus-easepick](https://github.com/maful/stimulus-easepick) - A powerful Stimulus wrapper for the lightweight, dependency-free [easepick](https://easepick.com/) datepicker
 
