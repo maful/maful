@@ -7,6 +7,7 @@
 
 - 💎 [ruby-phosphor-icons](https://github.com/maful/ruby-phosphor-icons) - Phosphor Icons for Ruby and Rails
 - 📟 [vea](https://github.com/maful/vea) - A terminal-inspired HTTP client for developers who prefer keyboard-first workflows
+- 🚦 [hij](https://github.com/maful/hij) - A Terminal User Interface (TUI) designed for managing GitHub Packages.
 - 🍬 [libur.run](https://github.com/maful/libur.run) - Empower Your HR with Next-Gen Open Source Self-Serve Platform
 - 📅 [stimulus-easepick](https://github.com/maful/stimulus-easepick) - A powerful Stimulus wrapper for the lightweight, dependency-free [easepick](https://easepick.com/) datepicker
 - ⏳ [upperbracket](https://github.com/maful/upperbracket) - Convenient way to generate full-stack Rails (Vite, Tailwind CSS, Rodauth, Rubocop)
