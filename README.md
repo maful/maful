@@ -1,11 +1,12 @@
 <img width="804" alt="Screen Shot 2020-09-20 at 21 24 35" src="https://user-images.githubusercontent.com/6563823/93713711-d58a7880-fb87-11ea-989c-d493997860fc.png">
 
 > [!IMPORTANT]
-> [VEA](https://github.com/maful/vea) - A terminal-inspired HTTP client for developers who prefer keyboard-first workflows
+> [inline](https://github.com/maful/inline) - A terminal workspace for running and monitoring multiple development processes. Every command gets a separate log screen with fast navigation, automatic following, and scrollback
 
 ## Current Projects
 
 - 💎 [ruby-phosphor-icons](https://github.com/maful/ruby-phosphor-icons) - Phosphor Icons for Ruby and Rails
+- 📥 [inline](https://github.com/maful/inline) - A terminal workspace for running and monitoring multiple development processes. Every command gets a separate log screen with fast navigation, automatic following, and scrollback
 - 📸 [screentake](https://github.com/maful/screentake) - A Ruby gem for capturing web page screenshots with a clean, keyword-driven API via Cloudflare Browser Rendering API and Ferrum
 - 📟 [vea](https://github.com/maful/vea) - A terminal-inspired HTTP client for developers who prefer keyboard-first workflows
 - 🚦 [hij](https://github.com/maful/hij) - A Terminal User Interface (TUI) designed for managing GitHub Packages
