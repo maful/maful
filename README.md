@@ -7,6 +7,7 @@
 
 - 💎 [ruby-phosphor-icons](https://github.com/maful/ruby-phosphor-icons) - Phosphor Icons for Ruby and Rails
 - 📥 [inline](https://github.com/maful/inline) - A terminal workspace for running and monitoring multiple development processes. Every command gets a separate log screen with fast navigation, automatic following, and scrollback
+- 🧼 [vider](https://github.com/maful/vider) - A tool that aims to finds the node_modules directories on your disk and deletes the ones you select, to free up space.
 - 📸 [screentake](https://github.com/maful/screentake) - A Ruby gem for capturing web page screenshots with a clean, keyword-driven API via Cloudflare Browser Rendering API and Ferrum
 - 📟 [vea](https://github.com/maful/vea) - A terminal-inspired HTTP client for developers who prefer keyboard-first workflows
 - 🚦 [hij](https://github.com/maful/hij) - A Terminal User Interface (TUI) designed for managing GitHub Packages
@@ -20,5 +21,3 @@
 - 💻 [dicari](https://github.com/maful/dicari) - an Open Source TogglHire alternative (In Progress)
 - 💰 [currency-conversion-ruby](https://github.com/maful/currency-conversion-ruby) - Currency Conversion Ruby for https://currencyapi.com
 - 📬 [github-actions-mailgun](https://github.com/maful/github-actions-mailgun) - An easy way to send an email with Mailgun in Github Actions
-- 🧱 [eci-rails](https://github.com/maful/eci-rails) - **[Deprecated]** New Rails Template Application for your next amazing project (use [upperbracket](https://github.com/maful/upperbracket))
-- 📦 [e-koperasi](https://github.com/maful/e-koperasi) - Voluntary Savings Cooperative App
